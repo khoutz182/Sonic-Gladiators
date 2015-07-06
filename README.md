@@ -1,2 +1,2 @@
 # Sonic-Gladiators
-Sonic Gladia
+Sonic Gladiators
