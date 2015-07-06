@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sonic-Gladiators.iml" filepath="$PROJECT_DIR$/Sonic-Gladiators.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SonicGladiators.iml" filepath="$PROJECT_DIR$/SonicGladiators.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
